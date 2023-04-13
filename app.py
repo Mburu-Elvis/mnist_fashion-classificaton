@@ -29,4 +29,4 @@ def predict(filename, model):
     result = model.predict(img)
 
     dict_result = {}
-    for i in range
+    
